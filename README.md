@@ -16,3 +16,7 @@ Tämä repository sisältää R-kielen manuaalin, joka kattaa seuraavat osa-alue
   - Perusgrafiikat ja visualisointikirjastot, kuten `ggplot2`.
 
 Manuaali on suunniteltu tukemaan aloittelijoita ja toimimaan viitteenä myös kokeneemmille käyttäjille.
+
+Manuaali perustuu
+Youtube
+https://www.youtube.com/watch?v=KlsYCECWEWE
