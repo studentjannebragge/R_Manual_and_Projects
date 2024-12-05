@@ -6,7 +6,7 @@ Tämä repository sisältää R-kielen manuaalin, joka kattaa seuraavat osa-alue
 
 - **R-kielen perustoiminnot**: 
   - Perusoperaatiot, kuten laskutoimitukset ja muuttujien käsittely.
-  - Data-analyysin keskeiset työkalut, kuten dataframit ja matriisit.
+  - Data-analyysin keskeiset työkalut, kuten dataframit ja matriisit..
   
 - **Ohjelmointirakenteet**:
   - Silmukat ja ehtolauseet.
