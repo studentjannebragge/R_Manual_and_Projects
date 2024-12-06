@@ -23,3 +23,4 @@ https://www.youtube.com/watch?v=KlsYCECWEWE
 
 ## Toisena osiona on ETL-Projekti
 
+Projekti on tehty pohjautua kuvitteelliseen dataan joka käsitellään ja visualisoidaan
