@@ -17,6 +17,6 @@ Tämä repository sisältää R-kielen manuaalin, joka kattaa seuraavat osa-alue
 
 Manuaali on suunniteltu tukemaan aloittelijoita ja toimimaan viitteenä myös kokeneemmille käyttäjille.
 
-Manuaali perustuu
+Source:
 Youtube
 https://www.youtube.com/watch?v=KlsYCECWEWE
