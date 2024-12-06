@@ -20,3 +20,6 @@ Manuaali on suunniteltu tukemaan aloittelijoita ja toimimaan viitteenä myös ko
 Source:
 Youtube
 https://www.youtube.com/watch?v=KlsYCECWEWE
+
+## Toisena osiona on ETL-Projekti
+
