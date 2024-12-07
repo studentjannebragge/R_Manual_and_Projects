@@ -24,3 +24,13 @@ https://www.youtube.com/watch?v=KlsYCECWEWE
 ## Toisena osiona on ETL-Projekti
 
 Projekti on tehty pohjautua kuvitteelliseen dataan joka käsitellään ja visualisoidaan
+
+## Kolmantena osiona on koneoppimismallit ja R
+
+työhon on sisällytetty seuraavat koneoppismallit
+ - Logistinen Regressio
+ - Decision Tree
+ - KNN
+ - K-Means 
+ - Naive Bayes
+
