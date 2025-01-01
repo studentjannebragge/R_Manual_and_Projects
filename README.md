@@ -33,4 +33,3 @@ työhon on sisällytetty seuraavat koneoppismallit
  - KNN
  - K-Means  
  - Naive Bayes
-
