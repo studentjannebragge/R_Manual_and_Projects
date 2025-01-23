@@ -32,4 +32,4 @@ työhon on sisällytetty seuraavat koneoppismallit
  - Decision Tree
  - KNN
  - K-Means 
- - Naive Bayes
+ - Naive Bayes 
