@@ -31,5 +31,5 @@ työhon on sisällytetty seuraavat koneoppismallit
  - Logistinen Regressio
  - Decision Tree
  - KNN
- - K-Means 
+ - K-Means
  - Naive Bayes
