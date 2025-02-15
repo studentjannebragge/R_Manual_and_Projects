@@ -33,3 +33,6 @@ työhon on sisällytetty seuraavat koneoppismallit
  - KNN
  - K-Means
  - Naive Bayes
+
+R-kielen perusteet UEF opas löytyy
+https://vm3751.kaj.pouta.csc.fi/shiny/_book/r-kurssi.html
