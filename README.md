@@ -36,3 +36,6 @@ työhon on sisällytetty seuraavat koneoppismallit
 
 R-kielen perusteet UEF opas löytyy
 https://vm3751.kaj.pouta.csc.fi/shiny/_book/r-kurssi.html
+
+TutorialPoint
+https://www.tutorialspoint.com/r/index.htm
